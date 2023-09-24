@@ -6,21 +6,18 @@ python interview cheat sheet
    - Linked Lists  
    - Stacks  
    - Queues  
-<br/>
 
 1. Searching and Sorting
    - Binary Search
    - Recursion
    - Merge Sort
    - Quick Sort  
-<br/>
 
 1. Maps and Hashing
    - Maps  
    - Hashing  
    - Collisions  
    - Hashing Conventions  
-<br/>
 
 1. Trees  
    - Trees  
@@ -29,7 +26,6 @@ python interview cheat sheet
    - Binary Search Trees  
    - Heaps  
    - Self-Balancing Trees  
-<br/>
 
 1. Graphs  
    - Graphs  
@@ -37,11 +33,9 @@ python interview cheat sheet
    - Graph Representation  
    - Graph Traversal  
    - Graph Paths  
-<br/>
 
 1. Case Studies in Algorithms  
    - Shortest Path Problem  
    - Knapsack Problem  
    - Traveling Salesman Problem  
-<br/>
 
