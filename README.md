@@ -1,5 +1,5 @@
 # Algorithms
-python interview cheat sheet
+Python cheat sheet: https://www.pythoncheatsheet.org/cheatsheet/basics
 
 1. List-Based Collections  
    - Lists/Arrays  
