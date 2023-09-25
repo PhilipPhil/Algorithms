@@ -36,6 +36,7 @@ Python documentation: https://docs.python.org/3/contents.html
    - Graph Paths  
 
 6. Case Studies in Algorithms  
+   - Dynamic Programming
    - Shortest Path Problem  
    - Knapsack Problem  
    - Traveling Salesman Problem  
