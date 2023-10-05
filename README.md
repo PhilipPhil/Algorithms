@@ -35,9 +35,8 @@ Python documentation: https://docs.python.org/3/contents.html
    - Graph Traversal  
    - Graph Paths  
 
-6. Case Studies in Algorithms  
-   - Dynamic Programming
-   - Shortest Path Problem  
+6. Dynamic Programming
+   - Dijkstra's algorithm
    - Knapsack Problem  
    - Traveling Salesman Problem  
 
