@@ -1,5 +1,7 @@
 # Algorithms
+
 Python cheat sheet: https://www.pythoncheatsheet.org/cheatsheet/basics
+
 Python documentation: https://docs.python.org/3/contents.html
 
 1. List-Based Collections  
